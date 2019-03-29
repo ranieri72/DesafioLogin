@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DesafioLogin
 //
-//  Created by MTZ-5555-TRANSP on 29/03/19.
+//  Created by Ranieri Aguiar on 29/03/19.
 //  Copyright © 2019 Ranieri. All rights reserved.
 //
 
